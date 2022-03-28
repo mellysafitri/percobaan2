@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class S_PerulanganFor {
+public class  S_PerulanganFor {
     public static void main(String[] args) {
         Scanner input =new Scanner(System.in);
         System.out.println("maukkan jumlah perulangan");

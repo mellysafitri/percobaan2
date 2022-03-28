@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class R_KalkulatorSwitch {
+public class  R_KalkulatorSwitch {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("welcome to our calculator");

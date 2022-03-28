@@ -1,4 +1,4 @@
-public class L_MenggunakanOperatorKondisi {
+public class  L_MenggunakanOperatorKondisi {
     public static void main(String[] args) {
         int x = 0;
         boolean isEven = false;
